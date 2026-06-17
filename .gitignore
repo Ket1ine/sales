@@ -1,0 +1,15 @@
+# C++ and Qt build files
+build/
+*.user
+*.o
+*.obj
+*.exe
+.qtc_clangd/
+
+# Project drafts and reference files to ignore
+Пояснительная записка Симин.docx
+Пояснительная записка Фролкин.docx
+схема_2_ИРМД.png
+Инфологическая.jpg
+kr_db_project_2026_PI*.pdf
+Шпаргалка_к_защите.md
